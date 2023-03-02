@@ -1,14 +1,13 @@
 body {
-  background-color: lightblue;
-  color: black;
-  font-size: 12px;
+  background-color: black;
+  Font-size: 12px;
   font: Lucida Handwriting;
-  text-align: left;
+  color: white;
 }
 
 h1 {
-  color: navy;
+  color: Maroon;
   Font-size: 20px;
-  font: Georgia
+  font: Georgia;
   text-align: center;
 }
