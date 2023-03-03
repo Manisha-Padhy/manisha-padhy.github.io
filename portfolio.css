@@ -34,3 +34,10 @@ p{
   font-family: Lucida Handwriting;
 }
 
+a {
+  color: #192b73;
+}
+
+a:hover, a:focus, a:active {
+  color: #0d1947;
+}
